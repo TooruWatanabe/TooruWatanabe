@@ -1,14 +1,16 @@
 # Toru Watanabe
 
-Automotive Operations Leader | Data Analytics | Automation | Data Engineering
+**Automotive Operations Leader | Analytics Engineering | Business Intelligence | Data Engineering**
+
+---
 
 ## About Me
 
-I am an automotive operations professional with over 20 years of international experience across Japan, India, Indonesia, and the Middle East & Africa.
+I am an automotive operations professional with more than 20 years of international experience across Japan, India, Indonesia, and the Middle East & Africa.
 
-After leading aftersales operations for a nationwide network of 110+ dealerships in Indonesia, I am transitioning into Data Analytics, Business Intelligence, and Data Engineering roles.
+After leading aftersales operations for a nationwide network of 110+ dealerships in Indonesia, I am transitioning into Analytics Engineering, Business Intelligence, and Data Engineering roles.
 
-My focus is building practical analytics and automation solutions that improve operational efficiency, reduce manual work, and enable data-driven decision making.
+My focus is building practical analytics, automation, and data platform solutions that improve operational efficiency, reduce manual work, and enable data-driven decision making.
 
 ---
 
@@ -27,6 +29,8 @@ My focus is building practical analytics and automation solutions that improve o
 * Python ETL Development
 * Data Transformation
 * PostgreSQL
+* SQL Analytics
+* Data Modeling
 * CSV / Excel Processing
 * Git & GitHub
 
@@ -37,37 +41,57 @@ My focus is building practical analytics and automation solutions that improve o
 * Excel VBA Integration
 * Business Process Automation
 
-### Currently Learning
+---
 
-* Apache Airflow
+## Currently Learning
+
 * Docker
+* Apache Airflow
 * Apache Spark
 * Hadoop
+* Databricks
 
 ---
 
 ## Featured Projects
 
-### OBD Telemetry Batch Processing Tool
+### 🚛 MEA Aftersales Data Platform
+
+Developed a multi-country data platform for automotive aftersales KPI reporting across the Middle East and Africa (MEA).
+
+Built Python ETL workflows to standardize KPI reports from Saudi Arabia, UAE, Morocco, and Jordan, loading **27,197 KPI records** into PostgreSQL for SQL-based analytics and Tableau reporting.
+
+**Key achievements:**
+
+* Multi-country KPI integration
+* Python ETL automation
+* PostgreSQL database implementation
+* SQL analytics layer development
+* Tableau-ready reporting architecture
+
+🔗 GitHub Repository
+
+---
+
+### 📡 OBD Telemetry Batch Processing Tool
 
 * Automated processing of 400+ OBD telemetry files
 * Integrated Python with existing Excel VBA workflows
 * Packaged as a Windows executable
-* Reduced processing time from approximately 20 hours to 30 minutes (40× improvement)
+* Reduced processing time from approximately 20 hours to 30 minutes (**40× improvement**)
 
-### EPC Parts Extraction Automation Tool
+🔗 GitHub Repository
 
-* Automated VIN and FIG-based part number extraction from an Electronic Parts Catalog
-* Implemented batch processing using CSV input
-* Delivered as a standalone Windows executable
-* Reduced processing time from 21 minutes to 5 minutes (76% reduction)
+---
 
-### MEA Aftersales Data Platform
+### ⚙️ EPC Parts Extraction Automation Tool
 
-* Built a Python ETL pipeline for Middle East & Africa distributor KPI reporting
-* Standardized KPI datasets across multiple countries
-* Integrated PostgreSQL and Tableau reporting
-* Enabled dealer network performance analysis and benchmarking
+* Automated VIN and FIG-based maintenance parts extraction
+* Batch processing using CSV input
+* Delivered as a Windows executable
+* Reduced processing time from 21 minutes to 5 minutes (**76% reduction**)
+
+🔗 GitHub Repository
 
 ---
 
@@ -95,7 +119,7 @@ My focus is building practical analytics and automation solutions that improve o
 
 ## Certifications
 
-* IBM Data Engineering Professional Certificate (In Progress)
+* IBM Data Engineering Professional Certificate (12 of 16 courses completed)
 * Google Data Analytics Professional Certificate
 * Python for Everybody (University of Michigan)
 
@@ -103,5 +127,8 @@ My focus is building practical analytics and automation solutions that improve o
 
 ## Connect With Me
 
-* LinkedIn
-* GitHub
+📧 [toru016@gmail.com](mailto:toru016@gmail.com)
+
+🔗 LinkedIn
+
+🔗 GitHub
